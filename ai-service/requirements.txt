@@ -5,3 +5,5 @@ pypdf
 transformers
 torch
 transformers
+sentence-transformers
+faiss-cpu
